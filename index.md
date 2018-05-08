@@ -15,10 +15,10 @@ Please send me an email to *tkkim92@korea.ac.kr* if you are interested in my res
 
 ## Publications
 
-1. **Taekyung Kim** and Wonjun Lee, "Exploiting Residual Channel for Implicit Wi-Fi Backscatter Networks," in *Proc of IEEE INFOCOM*, April 2018.
-1. Chenglong Shao, Heejun Roh, **Taekyung Kim** and Wonjun Lee, "Multisource Wireless Energy Harvesting-based Medium Access Control for Rechargeable Sensors," *IEEE Transactions on Consumer Electronics*, vol. 62, no. 1, pp. 119-127, May 2016.
-1. Chenglong Shao, **Taekyung Kim**, Jieun Yu, Jihoon Choi and Wonjun Lee, "ProTaR: Probabilistic Tag Retardation for Missing Tag Identification in Large-Scale RFID Systems," *IEEE Transactions on Industrial Informatics*, vol.11, no. 2, pp. 513-522, April 2015.
-1. **Taekyung Kim**, Chenglong Shao and Wonjun Lee, "Promptly Pinpointing Mobile RFID Tags for Large-Scale Internet-of-Things," in *International Conference on Big Data and Smart Computing (BigComp)*, Feb. 2015.
+1. **Taekyung Kim** and Wonjun Lee, "Exploiting Residual Channel for Implicit Wi-Fi Backscatter Networks," in *Proc of IEEE INFOCOM*, April 2018. [Paper](publications/Implicit_Wi-Fi_BS_INFOCOM_2018.pdf)
+1. Chenglong Shao, Heejun Roh, **Taekyung Kim** and Wonjun Lee, "Multisource Wireless Energy Harvesting-based Medium Access Control for Rechargeable Sensors," *IEEE Transactions on Consumer Electronics*, vol. 62, no. 1, pp. 119-127, May 2016. [Paper](http://ieeexplore.ieee.org/abstract/document/7514670/)
+1. Chenglong Shao, **Taekyung Kim**, Jieun Yu, Jihoon Choi and Wonjun Lee, "ProTaR: Probabilistic Tag Retardation for Missing Tag Identification in Large-Scale RFID Systems," *IEEE Transactions on Industrial Informatics*, vol.11, no. 2, pp. 513-522, April 2015. [Paper](http://ieeexplore.ieee.org/abstract/document/7047883/)
+1. **Taekyung Kim**, Chenglong Shao and Wonjun Lee, "Promptly Pinpointing Mobile RFID Tags for Large-Scale Internet-of-Things," in *International Conference on Big Data and Smart Computing (BigComp)*, Feb. 2015. [Paper](https://ieeexplore.ieee.org/abstract/document/7072820/)
 
 ---
 
