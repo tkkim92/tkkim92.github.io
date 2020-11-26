@@ -24,6 +24,12 @@ Please send me an email to *tkkim92@korea.ac.kr* if you are interested in my res
 
 ---
 
+## Patents 
+
+1. Youngkyo Baek, Jungje Son, Sunghoon Kim, Sangheon Pack, Hoyeon Lee, Haneul Ko, Chenglong Shao, Jaewook Lee, Heejun Roh, **Taekyung Kim**, and Sunjae Kim. "Method for Establishing Protocol Data Unit in Communication System," U.S. Patent, Patent Number: 10798761 B2, October 6, 2020.
+
+---
+
 ## Research Experience
 
 * Ambient Wi-Fi Backscatter Networking, National Research Foundation of Korea, 2019-.
@@ -41,4 +47,15 @@ Please send me an email to *tkkim92@korea.ac.kr* if you are interested in my res
 * Global Ph.D. Fellowship (GPF), 2015-2020.
 * ILJU Scholarship, 2011-2014.
 * Korea University Science & Technology Scholarship, 2010.
+* Honorable Mention, Korea Olympiad in Informatics (KOI), 2009.
+* Silver Prize, Korea Olympiad in Informatics (KOI), 2007.
+
+---
+
+## Technical Skills
+
+* **Programming Languages:** C/C++, Python, MATLAB, JavaScript, GoLang, Verilog
+* **Software-defined Radio Prototyping:** GNU Radio, USRP UHD, MATLAB WLAN Toolbox, MATLAB Coder
+* **Hardware Prototyping:** Altium Designer, Libero SoC, Vivado HLS, PYNQ, Code Composer Studio
+* **Test and Measurement:** ZeroMQ, OpenWrt, iperf, Vector Network Analyzer, Oscilloscope
 
