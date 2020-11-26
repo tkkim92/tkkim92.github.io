@@ -50,12 +50,3 @@ Please send me an email to *tkkim92@korea.ac.kr* if you are interested in my res
 * Honorable Mention, Korea Olympiad in Informatics (KOI), 2009.
 * Silver Prize, Korea Olympiad in Informatics (KOI), 2007.
 
----
-
-## Technical Skills
-
-* **Programming Languages:** C/C++, Python, MATLAB, JavaScript, GoLang, Verilog
-* **Software-defined Radio Prototyping:** GNU Radio, USRP UHD, MATLAB WLAN Toolbox, MATLAB Coder
-* **Hardware Prototyping:** Altium Designer, Libero SoC, Vivado HLS, PYNQ, Code Composer Studio
-* **Test and Measurement:** ZeroMQ, OpenWrt, iperf, Vector Network Analyzer, Oscilloscope
-
