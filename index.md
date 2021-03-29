@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="tkkim.jpg">
 
-I am a developer at Naver Cloud.
+I am a software engineer at Naver Cloud.
 I completed my Ph.D. in Computer Science and Engineering at Korea University under [Prof. Wonjun Lee](http://netlab.korea.ac.kr/wlee/).
 I received my B.S. degree in Computer Science and Engineering at Korea University in 2014.
 My research had focused on WLAN, backscatter networks and Internet-of-Things to put novel and challenging wireless technologies to practical use.
